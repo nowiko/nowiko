@@ -1,4 +1,8 @@
-### Hi there 👋
+###  Hi I'm Viktor Novikov 👋
+
+I'm a web developer, mostly working with PHP and Symfony.
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nowiko.nowiko)
 
 <!--
 **nowiko/nowiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
